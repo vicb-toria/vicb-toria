@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @vicb-toria
-- 👀 I’m interested in coding, robots and games
-- 🌱 I’m currently learning html and css
-- 💞️ I’m looking to collaborate on anything cool!
-- 📫 How to reach me ... email me :)
+- 👋 Hi, I’m @vicb-toria;
+- computer science student;
+- learning c++;
+- likes movies, books and programming 
+- email me for contact :)
+
 
 <!---
 vicb-toria/vicb-toria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
